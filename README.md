@@ -49,18 +49,6 @@ python main.py
 
 Replace `main.py` with the actual entry-point filename if necessary.
 
-## 📸 Screenshots
-
-Add screenshots demonstrating the main application features.
-
-### Main Menu
-<!-- Add screenshot here -->
-
-### Contact Management
-<!-- Add screenshot here -->
-
-### Search Functionality
-<!-- Add screenshot here -->
 
 ## 📖 What I Learned
 
