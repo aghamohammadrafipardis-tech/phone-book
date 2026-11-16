@@ -75,5 +75,3 @@ Through developing this project, I gained practical experience in:
 **Pardis Aghamohammadrafi**
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
-
